@@ -13,6 +13,8 @@
 ## 计算公式
 
 $$f_2 = 50 \times \lg\left\{\left[1 + \frac{1}{n}\sum_{t=1}^{n}(R_t - T_t)^2\right]^{-0.5} \times 100\right\}$$
+<img width="348" height="32" alt="image" src="https://github.com/user-attachments/assets/9d4d61d1-cde5-4e69-8758-0c53241151f0" />
+
 
 ## 使用方法
 
