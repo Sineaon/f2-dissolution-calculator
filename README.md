@@ -12,7 +12,8 @@
 
 ## 计算公式
 
-<img width="348" height="32" alt="image" src="https://github.com/user-attachments/assets/9d4d61d1-cde5-4e69-8758-0c53241151f0" />
+<img width="587" height="276" alt="image" src="https://github.com/user-attachments/assets/73a1f35a-1950-44fc-84d0-edb6a9e953f1" />
+
 
 
 ## 使用方法
